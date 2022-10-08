@@ -1,0 +1,6 @@
+1-Veritabanýna þifre koy
+2-Sýnýf silerken sýnýfýn açýk olup olmadýðýný kontröl edecek. Eðer sýnýftan birileri varsa silme
+iþlemini iptal edecek.
+3-Öðrenciyi sil dediðimde silinenler listesi altýnda baþka yere kopyalasýn
+4-Öðrenci kayýt ve güncelleme sýrasýnda tc kimlik kontrölü yapacak. Baþka ayný tc'den varsa hata verecek
+5-Numarasý deðiþen öðrencinin tüm alanlarda numarasý kontrol edilip deðiþtirilecek
